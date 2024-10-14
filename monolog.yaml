@@ -1,0 +1,53 @@
+- id: 1
+  band: Mike Mains & the Branches
+  venue: Saturn
+  event: Labeled Fest
+  city: Birmingham, AL, US
+  date: 2021-09-23
+  full-set: false
+
+- id: 2
+  band: Terminal
+  venue: Saturn
+  event: Labeled Fest
+  city: Birmingham, AL, US
+  date: 2021-09-23
+  full-set: true
+
+- id: 3
+  band: As Cities Burn
+  venue: Saturn
+  event: Labeled Fest
+  city: Birmingham, AL, US
+  date: 2021-09-23
+  full-set: true
+  release-urls:
+    youtube: https://youtu.be/VH4AAUOko6o
+
+- id: 4
+  band: Hopesfall
+  venue: Saturn
+  event: Labeled Fest
+  city: Birmingham, AL, US
+  date: 2021-09-23
+  full-set: true
+  release-urls:
+    youtube: https://youtu.be/IbXRoMKvS1A
+
+- id: 5
+  band: Emery
+  venue: Saturn
+  event: Labeled Fest
+  city: Birmingham, AL, US
+  date: 2021-09-23
+  full-set: true
+
+- id: 6
+  band: Beloved
+  venue: The Ramkat
+  city: Winston-Salem, NC, US
+  date: 2021-10-09
+  full-set: true
+  release-urls:
+    youtube: https://youtu.be/TTJowkT464A
+
