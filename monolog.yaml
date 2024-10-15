@@ -174,3 +174,201 @@
   location: Birmingham, AL, US
   date: 2023-09-24
 
+- id: 23
+  band: Lethal Method
+  venue: WORKPLAY
+  event: The End is Near Party
+  location: Birmingham, AL, US
+  date: 2024-10-02
+
+- id: 24
+  band: thoughtcrimes
+  venue: WORKPLAY
+  event: The End is Near Party
+  location: Birmingham, AL, US
+  date: 2024-10-02
+
+- id: 25
+  band: With Blood Comes Cleansing
+  venue: WORKPLAY
+  event: The End is Near Party
+  location: Birmingham, AL, US
+  date: 2024-10-02
+
+- id: 26
+  band: With Honor
+  venue: WORKPLAY
+  event: The End is Near Party
+  location: Birmingham, AL, US
+  date: 2024-10-02
+
+- id: 27
+  band: From Autumn to Ashes
+  venue: WORKPLAY
+  event: The End is Near Party
+  location: Birmingham, AL, US
+  date: 2024-10-02
+
+- id: 28
+  band: The Callous Daoboys
+  venue: WORKPLAY
+  event: Furnace Fest Kickoff Party
+  location: Birmingham, AL, US
+  date: 2024-10-03
+
+- id: 29
+  band: No Cure
+  venue: WORKPLAY
+  event: Furnace Fest Kickoff Party
+  location: Birmingham, AL, US
+  date: 2024-10-03
+
+- id: 30
+  band: Merauder
+  venue: WORKPLAY
+  event: Furnace Fest Kickoff Party
+  location: Birmingham, AL, US
+  date: 2024-10-03
+
+- id: 31
+  band: Zao
+  venue: WORKPLAY
+  event: Furnace Fest Kickoff Party
+  location: Birmingham, AL, US
+  date: 2024-10-03
+
+- id: 32
+  band: Counterparts
+  venue: WORKPLAY
+  event: Furnace Fest Kickoff Party
+  location: Birmingham, AL, US
+  date: 2024-10-03
+
+- id: 33
+  band: He is Legend
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-04
+
+- id: 34
+  band: Emery
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-04
+
+- id: 35
+  band: Unearth
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-04
+
+- id: 36
+  band: Better Lovers
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-04
+
+- id: 37
+  band: Bane
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-04
+
+- id: 38
+  band: August Burns Red
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-04
+
+- id: 39
+  band: Misery Signals
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-05
+
+- id: 40
+  band: Snapcase
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-05
+
+- id: 41
+  band: No Innocent Victim
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-05
+
+- id: 42
+  band: Stretch Arm Strong
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-05
+
+- id: 43
+  band: Demon Hunter
+  venue: WORKPLAY
+  location: Birmingham, AL, US
+  date: 2024-10-05
+
+- id: 44
+  band: \'68
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-06
+
+- id: 45
+  band: Mindforce
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-06
+
+- id: 46
+  band: Drug Church
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-06
+
+- id: 47
+  band: Extol
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-06
+
+- id: 48
+  band: Norma Jean
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-06
+  release-urls:
+    - name: Memphis Will Be Laid To Waste
+      url: https://youtu.be/taNWCmssTYM
+
+- id: 49
+  band: Blindside
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-06
+
+- id: 50
+  band: Underoath
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  location: Birmingham, AL, US
+  date: 2024-10-06
+
