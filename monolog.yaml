@@ -2,9 +2,8 @@
   band: Mike Mains & the Branches
   venue: Saturn
   event: Labeled Fest
-  city: Birmingham, AL, US
+  location: Birmingham, AL, US
   date: 2021-09-23
-  full-set: false
 
 - id: 2
   band: Terminal
@@ -12,7 +11,6 @@
   event: Labeled Fest
   city: Birmingham, AL, US
   date: 2021-09-23
-  full-set: true
 
 - id: 3
   band: As Cities Burn
@@ -20,9 +18,9 @@
   event: Labeled Fest
   city: Birmingham, AL, US
   date: 2021-09-23
-  full-set: true
   release-urls:
-    youtube: https://youtu.be/VH4AAUOko6o
+    - name: Full Set
+      url: https://youtu.be/VH4AAUOko6o
 
 - id: 4
   band: Hopesfall
@@ -30,9 +28,9 @@
   event: Labeled Fest
   city: Birmingham, AL, US
   date: 2021-09-23
-  full-set: true
   release-urls:
-    youtube: https://youtu.be/IbXRoMKvS1A
+    - name: Full Set
+      url: https://youtu.be/IbXRoMKvS1A
 
 - id: 5
   band: Emery
@@ -40,14 +38,139 @@
   event: Labeled Fest
   city: Birmingham, AL, US
   date: 2021-09-23
-  full-set: true
 
 - id: 6
+  band: He is Legend
+  venue: The Ramkat
+  city: Winston-Salem, NC, US
+  date: 2021-10-09
+
+- id: 7
   band: Beloved
   venue: The Ramkat
   city: Winston-Salem, NC, US
   date: 2021-10-09
-  full-set: true
   release-urls:
-    youtube: https://youtu.be/TTJowkT464A
+    - name: Mini Documentary and Full Set
+      url: https://youtu.be/TTJowkT464A
+
+- id: 8
+  band: mewithoutYou
+  venue: Neumos
+  event: Farewell Tour
+  city: Seattle, WA, US
+  date: 2022-07-29
+  release-urls:
+    - name: Full Set
+      url: https://youtu.be/jIOYyPyWWs0
+
+- id: 9
+  band: Thrice
+  venue: Showbox SoDo
+  event: The Artist in the Ambulance 20th Anniversary Tour
+  city: Seattle, WA, US
+  date: 2023-06-15
+
+- id: 10
+  band: Advent
+  venue: Iron City
+  event: Furnace Fest Kickoff Party
+  city: Birmingham, AL, US
+  date: 2023-09-21
+
+- id: 11
+  band: Jesus Piece
+  venue: Iron City
+  event: Furnace Fest Kickoff Party
+  city: Birmingham, AL, US
+  date: 2023-09-21
+
+- id: 12
+  band: Showbread
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-22
+
+- id: 13
+  band: Project 86
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-22
+
+- id: 14
+  band: Ninety Point Wuss
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-22
+
+- id: 15
+  band: Living Sacrifice
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-23
+  release-urls:
+    - name: Full Set
+      url: https://youtu.be/ekh4vSZY2EU
+
+- id: 16
+  band: Zao
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-23
+
+- id: 17
+  band: Training for Utopia
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-23
+  release-urls:
+    - name: Full Set
+      url: https://youtu.be/AzskZiiBg54
+
+- id: 18
+  band: Terror
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-23
+
+- id: 19
+  band: Gorilla Biscuits
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-23
+  release-urls:
+    - name: Full Set
+      url: https://youtu.be/rpUebgtQTL8
+
+- id: 20
+  band: Turnstile
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-23
+  release-urls:
+    - name: Full Set
+      url: https://youtu.be/WIK67K7rLzM
+
+- id: 21
+  band: As Cities Burn
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-24
+
+- id: 22
+  band: Haste the Day
+  venue: Sloss Furnaces National Historic Landmark
+  event: Furnace Fest
+  city: Birmingham, AL, US
+  date: 2023-09-24
 
