@@ -340,6 +340,9 @@
   event: Furnace Fest
   location: Birmingham, AL, US
   date: 2024-10-06
+  release-urls:
+    - name: Demolition Man / Grubby / Bliss Out
+      url: https://youtu.be/Y8l18TmEhYg
 
 - id: 47
   artist: Extol
