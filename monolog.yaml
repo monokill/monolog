@@ -70,6 +70,9 @@
   event: The Artist in the Ambulance 20th Anniversary Tour
   location: Seattle, WA, US
   date: 2023-06-15
+  release-urls:
+    - name: Stare at the Sun / Paper Tigers
+      url: https://youtu.be/PKnDtZ1ztU8
 
 - id: 10
   artist: Advent
