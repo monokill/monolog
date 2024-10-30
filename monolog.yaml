@@ -309,6 +309,9 @@
   event: Furnace Fest
   location: Birmingham, AL, US
   date: 2024-10-05
+  release-urls:
+    - name: My Beliefs
+      url: https://youtu.be/Cj8yJVJCE3w
 
 - id: 42
   artist: Stretch Arm Strong
