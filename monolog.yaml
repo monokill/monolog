@@ -73,6 +73,8 @@
   release-urls:
     - name: Stare at the Sun / Paper Tigers
       url: https://youtu.be/PKnDtZ1ztU8
+    - name: Full Live Album
+      url: https://youtu.be/_t-1pkjgXlg
 
 - id: 10
   artist: Advent
@@ -385,3 +387,16 @@
   location: Birmingham, AL, US
   date: 2024-10-06
 
+- id: 51
+  artist: Manchester Orchestra
+  venue: Showbox SoDo
+  event: Thrice and Manchester Orchestra Tour
+  location: Seattle, WA, US
+  date: 2024-11-08
+
+- id: 52
+  artist: Thrice
+  venue: Showbox SoDo
+  event: Thrice and Manchester Orchestra Tour - Beggars 15th Anniversary
+  location: Seattle, WA, US
+  date: 2024-11-08
