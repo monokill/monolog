@@ -290,6 +290,9 @@
   event: Furnace Fest
   location: Birmingham, AL, US
   date: 2024-10-04
+  release-urls:
+    - name: Full Set
+      url: https://youtu.be/m4zGOvYnpNY
 
 - id: 39
   artist: Misery Signals
